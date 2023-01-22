@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D547hbhAsl4eUXNrF/VkLOtUJHXQ8kGYg2jsYEvtAhfJ9l5bIzeTi/hTrcbyYr/ZFIkg93bTC+BJBc4ii7Vgkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jasiek\\RiderProjects\\linq-tasks (1)\\linq-tasks\\LinqCwiczenia2\\LinqTutorials\\LinqTutorials.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jasiek\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
